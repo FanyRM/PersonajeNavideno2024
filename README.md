@@ -1,10 +1,10 @@
 # PersonajeNavideno2024
 ## Nombre del personaje
-ALPACA NAVIDEÑA Y ÁRBOL
+ALPACA NAVIDEÑA
 ## Creador
 Ramírez Matehuala Celeste Estefanía
 ## Explicacion del funcionamiento
-Se tiene planeado realizar un conjunto de elementos que funcionen como un unico objeto, se quiere que exista un árbol de navidad en el que al momento de detectar un movimiento comience a girar y reproducir música, en el árbol se contempla que existan un total de tres alpacas con diferentes temáticas alrededor de el mismo junto al arbol, la tercera que este sobre la base dando vuelta realizando movimientos de cabeza suaves, los otros dos se planea tengan alas y las muevan.
+Se tiene planeado realizar una alpaca que tenga la función de mover su cabeza (de un lado a otro) mientras un gorro en su cabeza enciende en luz led, sus patas se moveran en grupos de dos, primero las derechas y despues las izquierdas y así consecutivamente llendo y viniendo, todo esto solo si detecta que hay alguien cerca, si no solo dará vueltas en el mismo lugar.
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
@@ -28,13 +28,14 @@ Se tiene planeado realizar un conjunto de elementos que funcionen como un unico 
 |ARDUINO IDE|2.3.2|
 
 ## Dibujo del personaje
-Imagen hecha a mano o con software
+![Imagen de WhatsApp 2024-09-27 a las 19 57 10_5a29f157](https://github.com/user-attachments/assets/cd022eac-a709-4191-bbca-85d00f392822)
+
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
