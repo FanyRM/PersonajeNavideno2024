@@ -41,8 +41,8 @@ Se tiene planeado realizar una alpaca que tenga la función de mover su cabeza (
 ## Videos
 |Actividad|Link|
 |--|--|
-|Instumento de evaluación| https://wokwi.com/projects/410242656383859713|
-|Proyecto navideño|https://wokwi.com/projects/410245730816519169|
+|Instumento de evaluación| https://drive.google.com/file/d/11ase0EVj2G3XsmUghnzluKyWkYjoUxjY/view?usp=sharing|
+|Proyecto navideño|https://drive.google.com/file/d/18x71wZeoEO9WcP6wYR9KZGZau_dmPtW4/view?usp=drive_link|
 
 
 ## Capturas de Evaluaciones de Curso de C
